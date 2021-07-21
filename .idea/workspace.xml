@@ -7,13 +7,10 @@
     <bookmark url="file://$PROJECT_DIR$/src/test/java/com/daydreamdev/secondskill/SecondsKillApplicationTests.java" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0317a772-365a-412b-bd81-87beeb938dbb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="0317a772-365a-412b-bd81-87beeb938dbb" name="Default" comment="bug修复">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seconds-kill.iml" beforeDir="false" afterPath="$PROJECT_DIR$/seconds-kill.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daydreamdev/secondskill/common/StockWithRedis/RedisKeysConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daydreamdev/secondskill/common/StockWithRedis/RedisKeysConstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/daydreamdev/secondskill/pojo/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daydreamdev/secondskill/pojo/Stock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daydreamdev/secondskill/common/StockWithRedis/StockWithRedis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daydreamdev/secondskill/common/StockWithRedis/StockWithRedis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/daydreamdev/secondskill/common/stockWithRedis/RedisKeysConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/daydreamdev/secondskill/common/stockWithRedis/RedisKeysConstant.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +50,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -344,6 +349,10 @@
       </pane>
     </panes>
   </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -525,6 +534,14 @@
       <workItem from="1560218107802" duration="18482000" />
       <workItem from="1560337382391" duration="9091000" />
     </task>
+    <task id="LOCAL-00001" summary="bug修复">
+      <created>1626867249141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1626867249141</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -617,6 +634,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bug修复" />
+    <option name="LAST_COMMIT_MESSAGE" value="bug修复" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

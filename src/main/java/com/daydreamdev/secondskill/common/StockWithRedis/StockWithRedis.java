@@ -1,4 +1,4 @@
-package com.daydreamdev.secondskill.common.stockWithRedis;
+package com.daydreamdev.secondskill.common.StockWithRedis;
 
 import com.daydreamdev.secondskill.common.utils.RedisPool;
 import com.daydreamdev.secondskill.common.utils.RedisPoolUtil;
@@ -10,7 +10,7 @@ import redis.clients.jedis.Transaction;
 import java.util.List;
 
 /**
- * @auther G.Fukang
+ * @author G.Fukang
  * @date 6/8 21:47
  */
 @Slf4j
